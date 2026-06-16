@@ -237,26 +237,3 @@ This project helped implement and understand:
 * Environment Variables
 * CORS Configuration
 * Production Debugging
-
----
-
-## 👨‍💻 Author
-
-Vivekananda Reddy
-
-GitHub:
-https://github.com/nanda-dev7
-
-
----
-
-## 📜 License
-
-This project is created for educational, portfolio, and learning purposes.
-
-
----
-
-## License
-
-This project is for educational and portfolio purposes.
