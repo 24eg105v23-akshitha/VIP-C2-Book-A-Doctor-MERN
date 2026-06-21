@@ -242,17 +242,17 @@ This project helped implement and understand:
 
 ## 👨‍💻 Author
 
-**CHETHULA HARISH**
+**AKSHITHA PATEL**
 
 Full Stack MERN Developer
 
 ### GitHub
 
-https://github.com/24eg105v07-create
+https://github.com/24eg105v23-akshitha
 
 ### Repository
+https://github.com/24eg105v23-akshitha/VIP-C2-Book-A-Doctor-MERN
 
-https://github.com/24eg105v07-create/MERN-HARISH
 
 ### Portfolio Project
 
@@ -262,8 +262,8 @@ Book A Doctor is a full-stack healthcare appointment management platform develop
 
 ### Connect With Me
 
-* GitHub: https://github.com/24eg105v07-create
-* Email: [harishchethula892@gmail.com]
+* GitHub: https://github.com/24eg105v23-akshitha
+
+  
 
 
-Last Updated: 20 June 2026
